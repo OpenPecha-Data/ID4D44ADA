@@ -1,0 +1,25 @@
+id: ID4D44ADA
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:10:28.098930'
+last_modified: '2022-06-11T13:10:28.098939'
+parser: null
+source_metadata:
+  title: Tsele Natsok Rangdrol Series
+  language: en
+  description: 'Texts by Tsele Natsok Rangdrol (rtse le sna tshogs rang grol, b. 1608):'
+  volume:
+    f3392:
+      title: 'Sweet Droplets of the Honey of Accomplishment: A Concise Explanation
+        of the Indispensable Points of the Feast-Gathering'
+      base_file: f3392.txt
+      order: 1
+      parent: Commentaries
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
